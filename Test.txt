@@ -1,3 +1,4 @@
-This is a test file. Got master branch changes. Good Job :)
+
+This is a test file. Master  branch got changed. Good Job :)
 
 test stash works with file changes. Now is it fine.
